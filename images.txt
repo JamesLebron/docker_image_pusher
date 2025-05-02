@@ -1,2 +1,2 @@
-loganjindev/certbot
+certbot/certbot
 nginx
