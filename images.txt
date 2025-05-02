@@ -1,1 +1,1 @@
-linuxserver/letsencrypt:latest
+linuxserver/radarr:5.22.4
